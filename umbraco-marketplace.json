@@ -1,0 +1,9 @@
+{
+  "Category": "Developer Tools",
+  "LicenseTypes": [ "Free" ],
+  "IssueTrackerUrl": "https://github.com/Cyber-Solutions-Software/CyberSolutions.UCore.DependencyInjection/issues",
+  "PackageType": "Package",
+  "Tags": [
+    "dependency injection"
+  ]
+}
